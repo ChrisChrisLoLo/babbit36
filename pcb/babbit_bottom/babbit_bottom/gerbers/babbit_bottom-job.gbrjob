@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4-0)"
     },
-    "CreationDate": "2023-01-08T13:58:21-06:00"
+    "CreationDate": "2023-01-08T13:34:09-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "bancouver40_cfx",
-      "GUID": "62616e63-6f75-4766-9572-34305f636678",
+      "Name": "babbit_bottom",
+      "GUID": "62616262-6974-45f6-926f-74746f6d2e6b",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 170.0999,
-      "Y": 68.1
+      "X": 173.1,
+      "Y": 71.1
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -26,53 +26,52 @@
       "Layers": "Outer",
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
-      "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25
+      "TrackToTrack": 0.2
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "bancouver40_cfx-F_Cu.gbr",
+      "Path": "babbit_bottom-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bancouver40_cfx-B_Cu.gbr",
+      "Path": "babbit_bottom-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bancouver40_cfx-F_Paste.gbr",
+      "Path": "babbit_bottom-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bancouver40_cfx-B_Paste.gbr",
+      "Path": "babbit_bottom-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bancouver40_cfx-F_Silkscreen.gbr",
+      "Path": "babbit_bottom-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bancouver40_cfx-B_Silkscreen.gbr",
+      "Path": "babbit_bottom-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bancouver40_cfx-F_Mask.gbr",
+      "Path": "babbit_bottom-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "bancouver40_cfx-B_Mask.gbr",
+      "Path": "babbit_bottom-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "bancouver40_cfx-Edge_Cuts.gbr",
+      "Path": "babbit_bottom-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
@@ -88,29 +87,24 @@
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
