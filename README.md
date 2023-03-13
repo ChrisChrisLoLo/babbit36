@@ -21,10 +21,11 @@ You can generate the gerbers from source in the pcb directory, and send off imed
 The following is the materials you will want/need to make your own babbit36. Note that anything amount after a + denotes the rough amount of spares you may want to have when ordering the parts.
 | Part | Count | Notes |
 |------|---------------|----------|
-| PCB | 1 | duh |
+| PCB | 1 |  |
 |Kailh Choc Hotswap Switches |40+10|| 	
 |LL4148 SMD Diodes |	40+10 |	This board uses SMD diodes exclusively. I found though-hole diodes often easily slipped around in a way such that the board was no longer able to fit inside the case|
 |Seeduino XIAO nrf52|1||
 |Rubber Feet 	|6+2| 	Any should generally work, though I'm using ~2.5mm thick ones, as they give more space for screw heads, as well as the magnetic connector I'm using|
-|CNC Printed Case 	|1 	|You could use PCB printing services like PCBWay to make one in resin, though I haven't confirmed if they'd be durable enough to survive in transit
+|CNC Printed Case 	|1 	|You could use PCB printing services like PCBWay to make one in resin, though I haven't confirmed if they'd be durable enough to survive in transit|
+|PCB/FR4 backplate | 1| For the back of the keyboard case. Can be found in the pcb folder |
 |M2 4mm Screw |	6+3 |	Screws for the PCB and case. Be careful of the size of the screw head! the flatter the better!
