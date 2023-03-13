@@ -1,5 +1,8 @@
 # babbit36
 
+![image of babbit36](https://lh3.googleusercontent.com/pw/AMWts8DwCoTWacwhSSqrcxAkfQMXyfk-6-LHsO64JU0l3AVrd6OUB-6Lfk-UIZn23yizijxunzSFsNKgVUzwrF0GgiBsBwEAGf0NMvLM-saS2Y9kz2beIGW-XCEwR5fnhEvlPQb0Ye-_y-kxsEA9hRosB1_8=w1896-h1068-no?authuser=0
+)
+
 A 36 key low profile wireless ortholinear board. Uses a Seediuno XIAO as the MCU, and runs on ZMK.
 Featues:
   - Low Profile, uses CFX keycaps
